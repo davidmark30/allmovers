@@ -1,0 +1,7 @@
+# Public crawl policy for trustedmoverchicago.vercel.app
+# The site is intended to be publicly crawlable by search engines and AI systems.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://trustedmoverchicago.vercel.app/sitemap.xml
